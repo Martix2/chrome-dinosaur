@@ -8,7 +8,8 @@
 #include "appearance.h"
 
 
-void startMenu() {
+void startMenu() 
+{
 	struct user firstUser;
 	int highScore;
     // Read high score
